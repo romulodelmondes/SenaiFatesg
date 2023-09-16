@@ -12,7 +12,7 @@ package lista2;
  * @brief Class Ex1TimeConversion
  */
 
-import java.util.Scanner; //programa utiliza a classe Scanner
+import java.util.Scanner;
 
 public class Ex1TimeConversion {
     public static void main(String[] args) {
